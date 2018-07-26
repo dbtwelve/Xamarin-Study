@@ -1,0 +1,9 @@
+/Users/leedonguk/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csprojResolveAssemblyReference.cache
+/Users/leedonguk/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csproj.CoreCompileInputs.cache
+/Users/leedonguk/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfoInputs.cache
+/Users/leedonguk/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfo.cs
+/Users/leedonguk/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.deps.json
+/Users/leedonguk/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
+/Users/leedonguk/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.pdb
+/Users/leedonguk/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.dll
+/Users/leedonguk/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.pdb

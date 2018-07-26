@@ -1,0 +1,1 @@
+C:\Users\winkey\Desktop\TestApp 0.2\TestApp\TestApp.csproj;x86

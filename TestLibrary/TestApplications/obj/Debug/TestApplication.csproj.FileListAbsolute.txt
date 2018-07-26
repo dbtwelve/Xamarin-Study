@@ -1,0 +1,9 @@
+/Users/leedonguk/Projects/TestLibrary/TestApplications/bin/Debug/TestApplications.exe.config
+/Users/leedonguk/Projects/TestLibrary/TestApplications/bin/Debug/TestApplications.exe
+/Users/leedonguk/Projects/TestLibrary/TestApplications/bin/Debug/TestApplications.pdb
+/Users/leedonguk/Projects/TestLibrary/TestApplications/bin/Debug/tset1.exe
+/Users/leedonguk/Projects/TestLibrary/TestApplications/bin/Debug/tset1.pdb
+/Users/leedonguk/Projects/TestLibrary/TestApplications/obj/Debug/TestApplication.csprojResolveAssemblyReference.cache
+/Users/leedonguk/Projects/TestLibrary/TestApplications/obj/Debug/TestApplication.csproj.CoreCompileInputs.cache
+/Users/leedonguk/Projects/TestLibrary/TestApplications/obj/Debug/TestApplications.exe
+/Users/leedonguk/Projects/TestLibrary/TestApplications/obj/Debug/TestApplications.pdb

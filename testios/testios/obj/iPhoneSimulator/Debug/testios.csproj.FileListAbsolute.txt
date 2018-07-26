@@ -1,0 +1,12 @@
+/Users/leedonguk/Projects/testios/testios/bin/iPhoneSimulator/Debug/testios.exe
+/Users/leedonguk/Projects/testios/testios/bin/iPhoneSimulator/Debug/testios.pdb
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/optimized/
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/testios.csprojResolveAssemblyReference.cache
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/testios.csproj.CoreCompileInputs.cache
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/testios.exe
+/Users/leedonguk/Projects/testios/testios/obj/iPhoneSimulator/Debug/testios.pdb

@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\winkey\Desktop\TestApp 0.2\TestApp\obj\x64\Release\ilc\intermediate\ILTransformed\TestApp.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\winkey\Desktop\TestApp 0.2\TestApp\obj\x64\Release\ilc\intermediate\ILTransformed\TestApp.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\winkey\Desktop\TestApp 0.2\TestApp\obj\x64\Release\ilc\intermediate\ILTransformed\TestApp.ilexe"
+/out "C:\Users\winkey\Desktop\TestApp 0.2\TestApp\obj\x64\Release\ilc\intermediate\MDIL\TestApp.mdilexe"

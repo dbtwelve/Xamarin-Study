@@ -1,0 +1,6 @@
+/Users/leedonguk/Projects/TestLibrary/tset1/obj/Debug/TestLibrary.csprojResolveAssemblyReference.cache
+/Users/leedonguk/Projects/TestLibrary/tset1/obj/Debug/TestLibrary.csproj.CoreCompileInputs.cache
+/Users/leedonguk/Projects/TestLibrary/tset1/bin/Debug/tset1.exe
+/Users/leedonguk/Projects/TestLibrary/tset1/bin/Debug/tset1.pdb
+/Users/leedonguk/Projects/TestLibrary/tset1/obj/Debug/tset1.exe
+/Users/leedonguk/Projects/TestLibrary/tset1/obj/Debug/tset1.pdb

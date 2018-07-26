@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{45559461-78A3-4AC6-AFEB-598526B4FA3E}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Test.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

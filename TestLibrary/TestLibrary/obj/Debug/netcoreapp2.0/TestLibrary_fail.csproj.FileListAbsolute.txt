@@ -1,0 +1,8 @@
+/Users/leedonguk/Projects/TestLibrary/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary_fail.deps.json
+/Users/leedonguk/Projects/TestLibrary/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary_fail.dll
+/Users/leedonguk/Projects/TestLibrary/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary_fail.pdb
+/Users/leedonguk/Projects/TestLibrary/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary_fail.csproj.CoreCompileInputs.cache
+/Users/leedonguk/Projects/TestLibrary/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary_fail.AssemblyInfoInputs.cache
+/Users/leedonguk/Projects/TestLibrary/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary_fail.AssemblyInfo.cs
+/Users/leedonguk/Projects/TestLibrary/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary_fail.dll
+/Users/leedonguk/Projects/TestLibrary/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary_fail.pdb

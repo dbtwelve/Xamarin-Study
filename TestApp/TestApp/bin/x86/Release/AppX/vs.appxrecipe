@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-P5CBBLJ</Machine>
+    <WindowsUser>winkey</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>9d8d5955-bb91-4667-95d8-671b6ab33b03</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\winkey\Desktop\TestApp 0.2\TestApp\obj\x86\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A9DA4125F53E221D407073305E2E2F5028EDE93EA5B83FBAC0EE6D356DDCBDE7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9d8d5955-bb91-4667-95d8-671b6ab33b03_1.0.0.0_x86__fvvjejd4x6g7y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9d8d5955-bb91-4667-95d8-671b6ab33b03_fvvjejd4x6g7y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9d8d5955-bb91-4667-95d8-671b6ab33b03</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=yowkim</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-28T01:20:28.327</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2015-07-18T08:18:37.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2015-04-02T08:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2015-04-02T08:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2015-04-02T08:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2015-04-02T08:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2015-04-02T08:55:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2015-04-15T12:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\concrt140_app.dll">
+      <PackagePath>concrt140_app.dll</PackagePath>
+      <Modified>2015-04-15T13:52:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\mrt100_app.dll">
+      <PackagePath>mrt100_app.dll</PackagePath>
+      <Modified>2015-04-15T12:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\msvcp140_app.dll">
+      <PackagePath>msvcp140_app.dll</PackagePath>
+      <Modified>2015-04-15T13:52:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-07-18T08:18:17.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-28T01:18:08.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\TestApp.dll">
+      <PackagePath>TestApp.dll</PackagePath>
+      <Modified>2015-07-28T01:20:27.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\TestApp.exe">
+      <PackagePath>TestApp.exe</PackagePath>
+      <Modified>2015-07-28T01:20:28.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\vcamp140_app.dll">
+      <PackagePath>vcamp140_app.dll</PackagePath>
+      <Modified>2015-04-15T13:52:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\vccorlib140_app.dll">
+      <PackagePath>vccorlib140_app.dll</PackagePath>
+      <Modified>2015-04-15T13:52:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\vcomp140_app.dll">
+      <PackagePath>vcomp140_app.dll</PackagePath>
+      <Modified>2015-04-15T13:52:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\vcruntime140_app.dll">
+      <PackagePath>vcruntime140_app.dll</PackagePath>
+      <Modified>2015-04-15T13:52:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\_Resources\0.rsrc">
+      <PackagePath>_Resources\0.rsrc</PackagePath>
+      <Modified>2015-07-28T01:18:52.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\_Resources\1.rsrc">
+      <PackagePath>_Resources\1.rsrc</PackagePath>
+      <Modified>2015-07-28T01:18:52.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\_Resources\2.rsrc">
+      <PackagePath>_Resources\2.rsrc</PackagePath>
+      <Modified>2015-07-28T01:18:52.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\_Resources\3.rsrc">
+      <PackagePath>_Resources\3.rsrc</PackagePath>
+      <Modified>2015-07-28T01:18:52.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\winkey\Desktop\TestApp 0.2\TestApp\bin\x86\Release\ilc\_Resources\index.txt">
+      <PackagePath>_Resources\index.txt</PackagePath>
+      <Modified>2015-07-28T01:18:52.044</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

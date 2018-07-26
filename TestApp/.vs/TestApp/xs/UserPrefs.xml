@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="TestApp/App.xaml.cs" Line="6" Column="14" />
+      <File FileName="TestApp/MainPage.xaml.cs" Line="6" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

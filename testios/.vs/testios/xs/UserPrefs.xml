@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F80D03B5-16B4-4313-87FA-B5B654ACC759}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testios/AppDelegate.cs">
+    <Files>
+      <File FileName="testios/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testios PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.testios>
+</Properties>

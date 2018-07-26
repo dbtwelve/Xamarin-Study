@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B746C87C-7335-4830-AAE2-ACACE4D69DB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.80F85E0B-AD54-47FE-BE69-57C49454C3AA" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo/Views/TodoItemPage.xaml.cs">
+    <Files>
+      <File FileName="Todo/App.cs" Line="1" Column="1" />
+      <File FileName="Todo/ITextToSpeech.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoListPageCS.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoListPage.xaml" Line="7" Column="30" />
+      <File FileName="Todo/Views/TodoItemPageCS.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoItemPage.xaml" Line="15" Column="15" />
+      <File FileName="Todo/Views/TodoItemPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Todo/Data/TodoItemDatabase.cs" Line="1" Column="1" />
+      <File FileName="Todo/Models/TodoItem.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>

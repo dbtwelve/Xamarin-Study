@@ -1,0 +1,9 @@
+/Users/leedonguk/Projects/Calc/Calc/bin/Debug/netstandard2.0/Calc.deps.json
+/Users/leedonguk/Projects/Calc/Calc/bin/Debug/netstandard2.0/Calc.dll
+/Users/leedonguk/Projects/Calc/Calc/bin/Debug/netstandard2.0/Calc.pdb
+/Users/leedonguk/Projects/Calc/Calc/obj/Debug/netstandard2.0/Calc.csprojResolveAssemblyReference.cache
+/Users/leedonguk/Projects/Calc/Calc/obj/Debug/netstandard2.0/Calc.csproj.CoreCompileInputs.cache
+/Users/leedonguk/Projects/Calc/Calc/obj/Debug/netstandard2.0/Calc.AssemblyInfoInputs.cache
+/Users/leedonguk/Projects/Calc/Calc/obj/Debug/netstandard2.0/Calc.AssemblyInfo.cs
+/Users/leedonguk/Projects/Calc/Calc/obj/Debug/netstandard2.0/Calc.dll
+/Users/leedonguk/Projects/Calc/Calc/obj/Debug/netstandard2.0/Calc.pdb

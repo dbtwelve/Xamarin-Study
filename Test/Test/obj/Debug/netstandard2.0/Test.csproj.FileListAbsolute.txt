@@ -1,0 +1,9 @@
+/Users/leedonguk/Projects/Test/Test/bin/Debug/netstandard2.0/Test.deps.json
+/Users/leedonguk/Projects/Test/Test/bin/Debug/netstandard2.0/Test.dll
+/Users/leedonguk/Projects/Test/Test/bin/Debug/netstandard2.0/Test.pdb
+/Users/leedonguk/Projects/Test/Test/obj/Debug/netstandard2.0/Test.csprojResolveAssemblyReference.cache
+/Users/leedonguk/Projects/Test/Test/obj/Debug/netstandard2.0/Test.csproj.CoreCompileInputs.cache
+/Users/leedonguk/Projects/Test/Test/obj/Debug/netstandard2.0/Test.AssemblyInfoInputs.cache
+/Users/leedonguk/Projects/Test/Test/obj/Debug/netstandard2.0/Test.AssemblyInfo.cs
+/Users/leedonguk/Projects/Test/Test/obj/Debug/netstandard2.0/Test.dll
+/Users/leedonguk/Projects/Test/Test/obj/Debug/netstandard2.0/Test.pdb

@@ -1,0 +1,62 @@
+﻿<Page
+    x:Class="TestApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TestApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.BottomAppBar>
+        <AppBar x:ConnectionId='1' IsOpen="False" Name="appbarMain">
+            <AppBarButton x:ConnectionId='2' Icon="Add"                           />
+        </AppBar>
+    </Page.BottomAppBar>
+
+    <SplitView x:ConnectionId='3' Name="MySplitView" DisplayMode="CompactOverlay" IsPaneOpen="False">
+    <SplitView.Pane>
+        <StackPanel Background="Gray">
+            <Button x:ConnectionId='4' x:Name="HamburgerButton" FontFamily="Segoe MDL2 Assets" Content="&#xE700;"
+                     Width="50" Height="50" Background="Transparent"                              />
+            <StackPanel Orientation="Horizontal">
+                <Button x:ConnectionId='7' x:Name="btnHome" FontFamily="Segoe MDL2 Assets" Content="&#xE825;"
+                     Width="50" Height="50" Background="Transparent"/>
+                <TextBlock Text="Home" FontSize="18" VerticalAlignment="Center" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:ConnectionId='6' x:Name="btnStoredBook" FontFamily="Segoe MDL2 Assets" Content="&#xE10F;"
+                         Width="50" Height="50" Background="Transparent"/>
+                <TextBlock Text="Book List" FontSize="18" VerticalAlignment="Center" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:ConnectionId='5' x:Name="MenuButton3" FontFamily="Segoe MDL2 Assets" Content="&#xE1D6;"
+                         Width="50" Height="50" Background="Transparent"/>
+                <TextBlock Text="Button 3" FontSize="18" VerticalAlignment="Center" />
+            </StackPanel>
+        </StackPanel>
+    </SplitView.Pane>
+    <SplitView.Content>
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:ConnectionId='9' x:Name="txtKeyword" Width="128"/>
+                    <Button x:ConnectionId='10' x:Name="txtSearch" Content="Search"                        />
+                    <Button x:ConnectionId='11' x:Name="txtStoredBooks" Content="저장된 책 보기"                             />
+                </StackPanel>
+                <ListBox x:ConnectionId='8' x:Name="lstBooks" Height="700">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal"  Height="300">
+                                <Image x:Name="image" Source="{Binding ImageUrl}"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock FontSize="20" Text="{Binding Title}" FontWeight="Bold" HorizontalAlignment="Left"/>
+                                    <TextBlock x:Name="textBlock" FontSize="15" Text="{Binding Description}" TextWrapping="Wrap" Width="300"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+        </SplitView.Content>
+    </SplitView>
+
+</Page>
+
